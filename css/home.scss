@@ -1,0 +1,30 @@
+@import "mixin";
+$image1: url(../images/slider1.jpg);
+$image2: url(../images/slider2.jpg);
+$image3: url(../images/slider3.jpg);
+$image4: url(../images/slider4.jpg);
+$cardhight: 550px;
+
+.box4{
+    background-image: $image4;
+    @include boxes();
+}
+.box3{
+    background-image: $image3;
+    @include boxes();
+}
+.box2{
+    background-image: $image2;
+    @include boxes();
+}
+.box1{
+    background-image: $image1;
+    @include boxes();
+}
+.card{
+    height: $cardhight;
+}
+
+#more2,#more{
+    display:none;
+}

@@ -1,0 +1,36 @@
+.box4 {
+  background-image: url(../images/slider4.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 450px;
+}
+
+.box3 {
+  background-image: url(../images/slider3.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 450px;
+}
+
+.box2 {
+  background-image: url(../images/slider2.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 450px;
+}
+
+.box1 {
+  background-image: url(../images/slider1.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 450px;
+}
+
+.card {
+  height: 550px;
+}
+
+#more2, #more {
+  display: none;
+}
+/*# sourceMappingURL=home.css.map */

@@ -1,0 +1,7 @@
+section form{
+    background-color: rgb(212, 212, 212);
+    border-top-right-radius:20%;
+    border-bottom-left-radius:20%;
+
+    margin: 5px;
+}

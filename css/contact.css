@@ -1,0 +1,51 @@
+input[type=text],[type=email],[type=tel]{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    border-bottom: 3px solid #9453a6;
+    border-left: 3px solid #9453a6;
+  }
+  input[type=search]{
+    padding: 10px;
+    margin-bottom:0px;
+    border: none;
+  }
+  p{
+    text-align: center;
+    font-size: 1em;
+  }
+  p a{
+    text-decoration: none;
+ color:  #9453a6;
+ font-weight: bold;
+  }
+   
+  textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    resize: vertical;
+    border-bottom: 3px solid #9453a6;
+    border-left: 3px solid #9453a6;
+  }
+   .send{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    resize: vertical;
+    border-bottom: 3px solid #9453a6;
+    border-right: 3px solid #9453a6;
+   }
